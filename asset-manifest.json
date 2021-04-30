@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactLoginApp/static/css/main.3cec9464.chunk.css",
+    "main.js": "/ReactLoginApp/static/js/main.9386871e.chunk.js",
+    "main.js.map": "/ReactLoginApp/static/js/main.9386871e.chunk.js.map",
+    "runtime-main.js": "/ReactLoginApp/static/js/runtime-main.ceffac4f.js",
+    "runtime-main.js.map": "/ReactLoginApp/static/js/runtime-main.ceffac4f.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/ReactLoginApp/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.cb1a5638.chunk.js": "/ReactLoginApp/static/js/2.cb1a5638.chunk.js",
+    "static/js/2.cb1a5638.chunk.js.map": "/ReactLoginApp/static/js/2.cb1a5638.chunk.js.map",
+    "static/js/3.4d9dfb15.chunk.js": "/ReactLoginApp/static/js/3.4d9dfb15.chunk.js",
+    "static/js/3.4d9dfb15.chunk.js.map": "/ReactLoginApp/static/js/3.4d9dfb15.chunk.js.map",
+    "index.html": "/ReactLoginApp/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/ReactLoginApp/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.3cec9464.chunk.css.map": "/ReactLoginApp/static/css/main.3cec9464.chunk.css.map",
+    "static/js/2.cb1a5638.chunk.js.LICENSE.txt": "/ReactLoginApp/static/js/2.cb1a5638.chunk.js.LICENSE.txt",
+    "static/media/loginheader.e61ff2a2.jpg": "/ReactLoginApp/static/media/loginheader.e61ff2a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceffac4f.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.cb1a5638.chunk.js",
+    "static/css/main.3cec9464.chunk.css",
+    "static/js/main.9386871e.chunk.js"
+  ]
+}
